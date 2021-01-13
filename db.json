@@ -1,0 +1,64 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "phone": "+7 (916) 547-95-34",
+      "patronymic": "Иванович",
+      "email": "ivan@mail.ru",
+      "birthday": "1988-06-30",
+      "type": 0
+    },
+    {
+      "name": "Петр",
+      "surname": "Петров",
+      "patronymic": "Петрович",
+      "phone": "+7 (916) 667-85-34",
+      "email": "petr@mail.ru",
+      "birthday": "1977-06-30",
+      "type": 1,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "Василий",
+      "surname": "Васильев",
+      "phone": "+7 (916) 547-99-34",
+      "patronymic": "Васильевич",
+      "email": "vasya@mail.ru",
+      "birthday": "1969-09-30",
+      "type": 3
+    },
+    {
+      "name": "Семён",
+      "surname": "Семёнов",
+      "patronymic": "Семёнович",
+      "phone": "+7 (916) 547-85-12",
+      "email": "sema@mail.ru",
+      "birthday": "2000-01-28",
+      "type": 3,
+      "id": 5
+    },
+    {
+      "name": "Анастасия",
+      "surname": "Кудряшова",
+      "patronymic": "Владимировна",
+      "phone": "+7 (916) 034-20-53",
+      "email": "nastya@gmail.com",
+      "birthday": "2001-11-20",
+      "type": 0,
+      "id": 6
+    },
+    {
+      "name": "Сидор",
+      "surname": "Сидоров",
+      "patronymic": "Сидорович",
+      "phone": "+7 (923) 657-39-04",
+      "email": "sidor@gmail.com",
+      "birthday": "1999-01-07",
+      "type": 2,
+      "id": 7
+    }
+  ]
+}
